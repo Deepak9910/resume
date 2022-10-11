@@ -1,0 +1,65 @@
+/*--------------About-----------*/
+.about
+{
+padding-top:100px;
+padding-bottom: 30px;
+}
+
+.profile-img
+{
+height:300px;
+}
+.nav-bar
+{
+top:0;
+position:sticky;
+z-index:2;
+}
+.navbar
+{background-color:#000; }
+
+.navbar-brand img
+{
+height:30px;
+}
+
+.fa-bars
+{
+font-size:15px;
+color:#fff;
+}
+.nav-bar
+{
+font-size:20px;
+color:#fff;
+}
+.nav-item {
+    margin-right: 100px;
+}
+.navbar-toggler
+{
+outline:none !important 
+}
+.navbar-nav
+{
+float:inline-start;
+text-align:center;
+}
+.nav-link 
+{color: #fff !important }
+
+.skills-bar p
+{
+margin-bottom: 6px;
+font-weight:600;
+}
+.progress
+{
+border-radius: 16px !important;
+margin-bottom: 10px;
+}
+.progress-bar
+{
+border-radius: 16px;
+background:#000;
+}
